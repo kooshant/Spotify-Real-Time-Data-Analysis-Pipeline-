@@ -332,7 +332,7 @@ spotify-mds-pipeline/
 
 ## 📣 Author
 **Author:** kooshant kumar 
-**LinkedIn:** [kooshantkumar]([https://www.linkedin.com/in/jayachandrakadiveti](https://www.linkedin.com/in/kooshant-kumar-b8193827b))  
+**LinkedIn:** [kooshantkumar]((https://www.linkedin.com/in/kooshant-kumar-b8193827b))  
 **GitHub:** [kooshant](github.com/kooshant)  
 **Contact:** kushantjangra1234@gmail.com
 
